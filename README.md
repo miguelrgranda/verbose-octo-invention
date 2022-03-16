@@ -1,4 +1,1 @@
-New line
-New line
-Hola
-Adios
+Example project from template
